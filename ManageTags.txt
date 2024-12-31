@@ -1,0 +1,4 @@
+list tags
+git tag
+
+git tag -d v1.4
