@@ -1,0 +1,5 @@
+this is a text file in dev branch
+
+function getText(){
+	return text;
+}
