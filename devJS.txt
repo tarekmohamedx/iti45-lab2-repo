@@ -3,3 +3,5 @@ this is a text file in dev branch
 function getText(){
 	return text;
 }
+
+where is Image Ya Tarek??
