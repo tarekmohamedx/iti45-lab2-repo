@@ -1,4 +1,5 @@
 list tags
 git tag
 
+delete tag
 git tag -d v1.4
